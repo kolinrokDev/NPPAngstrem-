@@ -1,0 +1,470 @@
+<svg width="2070.000000" height="1024.000000" viewBox="0 0 2070 1024" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip91_605">
+			<rect id="Фон микросхема" rx="0.000000" width="2069.000000" height="1023.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip91_605)">
+		<path id="Line 12 (Stroke)" d="M382 -4L382 645L376 645L376 -4L382 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 137 (Stroke)" d="M354 273L354 736L348 736L348 273L354 273Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 158 (Stroke)" d="M360 -4L360 269L354 269L354 -4L360 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 159 (Stroke)" d="M333 -4L333 240L327 240L327 -4L333 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 160 (Stroke)" d="M306 -4L306 212L300 212L300 -4L306 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 161 (Stroke)" d="M279 -4L279 185L273 185L273 -4L279 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 162 (Stroke)" d="M252 -4L252 160L246 160L246 -4L252 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 139 (Stroke)" d="M321 307L321 627L315 627L315 307L321 307Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 152 (Stroke)" d="M291 336L291 509L285 509L285 336L291 336Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 153 (Stroke)" d="M265 309L265 484L259 484L259 309L265 309Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 154 (Stroke)" d="M240 279L240 456L234 456L234 279L240 279Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 155 (Stroke)" d="M213 255L213 430L207 430L207 255L213 255Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 156 (Stroke)" d="M188 227L188 404L182 404L182 227L188 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 178 (Stroke)" d="M140 227L140 367L134 367L134 227L140 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 179 (Stroke)" d="M112 225L112 342L106 342L106 225L112 225Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 180 (Stroke)" d="M86 226L86 311L80 311L80 226L86 226Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 16 (Stroke)" d="M477 340L477 671L471 671L471 340L477 340Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 24 (Stroke)" d="M718 417L718 505L712 505L712 417L718 417Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 29 (Stroke)" d="M651 338L561 428L556.75 423.75L646.75 333.75L651 338Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 32 (Stroke)" d="M622 484L556 550L551.75 545.75L617.75 479.75L622 484Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 58 (Stroke)" d="M600 641L673 714L668.75 718.24L595.75 645.24L600 641Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 78 (Stroke)" d="M578 640L652 714L647.75 718.24L573.75 644.24L578 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 79 (Stroke)" d="M556 640L632 714L627.81 718.29L551.81 644.29L556 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 80 (Stroke)" d="M534 641L609.79 714.21L605.62 718.52L529.83 645.31L534 641Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 81 (Stroke)" d="M513 641L588 714L583.81 718.3L508.81 645.3L513 641Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 82 (Stroke)" d="M491 640L567.21 714.77L563.01 719.05L486.79 644.28L491 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 64 (Stroke)" d="M424 640L503 714L498.89 718.37L419.89 644.37L424 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 33 (Stroke)" d="M644 485L578 551L573.75 546.75L639.75 480.75L644 485Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 65 (Stroke)" d="M402 640L482 714L477.92 718.4L397.92 644.4L402 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 34 (Stroke)" d="M666 485L600 551L595.75 546.75L661.75 480.75L666 485Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 66 (Stroke)" d="M446 640L524 714L519.87 718.35L441.87 644.35L446 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 67 (Stroke)" d="M380 640L461 714L456.95 718.43L375.95 644.43L380 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 138 (Stroke)" d="M261.42 678L316.42 623L320.66 627.24L265.66 682.24L261.42 678Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 147 (Stroke)" d="M217 575L287 505L291.24 509.24L221.24 579.24L217 575Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 148 (Stroke)" d="M192 549L261 480L265.24 484.24L196.24 553.24L192 549Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 149 (Stroke)" d="M165 523L236 452L240.24 456.24L169.24 527.24L165 523Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 157 (Stroke)" d="M259 309L329 236L333.33 240.15L263.33 313.15L259 309Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 163 (Stroke)" d="M233 279L302 207L306.33 211.15L237.33 283.15L233 279Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 164 (Stroke)" d="M206 255L275 181L279.38 185.09L210.38 259.09L206 255Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 165 (Stroke)" d="M183 227L247 156L251.45 160.01L187.45 231.01L183 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 166 (Stroke)" d="M133.2 227L200 155L204.39 159.08L137.6 231.08L133.2 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 168 (Stroke)" d="M107.2 226L172.99 155L177.4 159.07L111.6 230.07L107.2 226Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 169 (Stroke)" d="M82.2 225L147.99 154L152.39 158.07L86.6 229.07L82.2 225Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 167 (Stroke)" d="M285 336L355 265L359.27 269.21L289.27 340.21L285 336Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 150 (Stroke)" d="M138 497L209 426L213.24 430.24L142.24 501.24L138 497Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 151 (Stroke)" d="M114 470L184 400L188.24 404.24L118.24 474.24L114 470Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 140 (Stroke)" d="M150 657L110 617L114.24 612.75L154.24 652.75L150 657Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 136 (Stroke)" d="M415 730L444 759L439.75 763.24L410.75 734.24L415 730Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 118 (Stroke)" d="M302 846L229.99 913L225.91 908.6L297.91 841.6L302 846Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 121 (Stroke)" d="M351.79 911.92L217.79 1045.92L213.55 1041.68L347.55 907.68L351.79 911.92Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 123 (Stroke)" d="M378.31 938.4L283.31 1033.41L279.07 1029.17L374.07 934.16L378.31 938.4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 119 (Stroke)" d="M277 819L201 887L196.99 882.52L272.99 814.52L277 819Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 128 (Stroke)" d="M58.99 911L-2.01 972L-6.25 967.75L54.75 906.75L58.99 911Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 129 (Stroke)" d="M84.99 952L-9.01 1046L-13.25 1041.76L80.75 947.75L84.99 952Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 130 (Stroke)" d="M33.99 885L-8.01 927L-12.25 922.75L29.75 880.75L33.99 885Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 122 (Stroke)" d="M324 884L244 954L240.04 949.48L320.04 879.48L324 884Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 120 (Stroke)" d="M250 792L176 861L171.9 856.61L245.9 787.61L250 792Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 57 (Stroke)" d="M815 635L739 702L735.03 697.49L811.03 630.49L815 635Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 30 (Stroke)" d="M685 338L562 461L557.75 456.75L680.75 333.75L685 338Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 31 (Stroke)" d="M685 372L596 461L591.75 456.75L680.75 367.75L685 372Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 20 (Stroke)" d="M471 341L539 273L543.24 277.24L475.24 345.24L471 341Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 13 (Stroke)" d="M404 -4L404 645L398 645L398 -4L404 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 17 (Stroke)" d="M493 352L493 645L487 645L487 352L493 352Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 35 (Stroke)" d="M558 545L558 645L552 645L552 545L558 545Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 25 (Stroke)" d="M745 391L745 531L739 531L739 391L745 391Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 21 (Stroke)" d="M487 352L555 284L559.24 288.24L491.24 356.24L487 352Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 92 (Stroke)" d="M711 275L779 207L783.24 211.24L715.24 279.24L711 275Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 103 (Stroke)" d="M757 195L845 128L848.63 132.77L760.63 199.77L757 195Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 111 (Stroke)" d="M916 93L820 -3L824.24 -7.25L920.24 88.75L916 93Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 112 (Stroke)" d="M916 73L839 -4L843.24 -8.25L920.24 68.75L916 73Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 104 (Stroke)" d="M421 162L468 115L472.24 119.24L425.24 166.24L421 162Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 22 (Stroke)" d="M509 363L577 295L581.24 299.24L513.24 367.24L509 363Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 93 (Stroke)" d="M730 286L798 218L802.24 222.24L734.24 290.24L730 286Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 23 (Stroke)" d="M530 374L598 306L602.24 310.24L534.24 378.24L530 374Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 94 (Stroke)" d="M748 297L816 229L820.24 233.24L752.24 301.24L748 297Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 14 (Stroke)" d="M426 -4L426 645L420 645L420 -4L426 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 18 (Stroke)" d="M515 362L515 645L509 645L509 362L515 362Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 36 (Stroke)" d="M580 546L580 645L574 645L574 546L580 546Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 26 (Stroke)" d="M772 363L772 558L766 558L766 363L772 363Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 15 (Stroke)" d="M448 -4L448 645L442 645L442 -4L448 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 19 (Stroke)" d="M536 374L536 645L530 645L530 374L536 374Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 37 (Stroke)" d="M602 547L602 645L596 645L596 547L602 547Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 27 (Stroke)" d="M797 391L797 529L791 529L791 391L797 391Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 28 (Stroke)" d="M823 417L823 505L817 505L817 417L823 417Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 38 (Stroke)" d="M879 407L879 529L873 529L873 407L879 407Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 39 (Stroke)" d="M914 381L914 555L908 555L908 381L914 381Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 40 (Stroke)" d="M949 307L949 591L943 591L943 307L949 307Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 114 (Stroke)" d="M969 -4L969 27L963 27L963 -4L969 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 115 (Stroke)" d="M948 -4L948 40L942 40L942 -4L948 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 116 (Stroke)" d="M927 -4L927 31L921 31L921 -4L927 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 117 (Stroke)" d="M906 -4L906 13L900 13L900 -4L906 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 41 (Stroke)" d="M939 602L752 602L752 596L939 596L939 602Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 43 (Stroke)" d="M692 602L600 602L600 596L692 596L692 602Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 44 (Stroke)" d="M739 702L654 702L654 696L739 696L739 702Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 45 (Stroke)" d="M1035 848L298 848L298 842L1035 842L1035 848Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 124 (Stroke)" d="M244 954L81 954L81 948L244 948L244 954Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 125 (Stroke)" d="M230 913L54 913L54 907L230 907L230 913Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 126 (Stroke)" d="M201 887L30 887L30 881L201 881L201 887Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 127 (Stroke)" d="M176 861L-27 861L-27 855L176 855L176 861Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 54 (Stroke)" d="M1035 940L374 940L374 934L1035 934L1035 940Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 46 (Stroke)" d="M1035 821L273 821L273 815L1035 815L1035 821Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 55 (Stroke)" d="M1035 913L348 913L348 907L1035 907L1035 913Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 47 (Stroke)" d="M1035 794L246 794L246 788L1035 788L1035 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 131 (Stroke)" d="M455 764L74 764L74 758L455 758L455 764Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 132 (Stroke)" d="M415 736L50 736L50 730L415 730L415 736Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 133 (Stroke)" d="M351 709L26 709L26 703L351 703L351 709Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 134 (Stroke)" d="M351 683L50 683L50 677L351 677L351 683Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 135 (Stroke)" d="M150 657L72 657L72 651L150 651L150 657Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 141 (Stroke)" d="M114 618L-15 618L-15 612L114 612L114 618Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 142 (Stroke)" d="M222 579L-15 579L-15 573L222 573L222 579Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 143 (Stroke)" d="M196 553L-20 553L-20 547L196 547L196 553Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 144 (Stroke)" d="M169 527L-25 527L-25 521L169 521L169 527Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 145 (Stroke)" d="M142 501L-12 501L-12 495L142 495L142 501Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 146 (Stroke)" d="M118 475L2 475L2 469L118 469L118 475Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 170 (Stroke)" d="M81 422L2 422L2 416L81 416L81 422Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 171 (Stroke)" d="M104 395L0 395L0 389L104 389L104 395Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 172 (Stroke)" d="M137 367L2 367L2 361L137 361L137 367Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 173 (Stroke)" d="M137 342L2 342L2 336L137 336L137 342Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 174 (Stroke)" d="M137 315L2 315L2 309L137 309L137 315Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 175 (Stroke)" d="M137 285L59 285L59 279L137 279L137 285Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 176 (Stroke)" d="M137 259L33 259L33 253L137 253L137 259Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 177 (Stroke)" d="M137 230L2 230L2 224L137 224L137 230Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 181 (Stroke)" d="M107 205L33 205L33 199L107 199L107 205Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 182 (Stroke)" d="M132 178L58 178L58 172L132 172L132 178Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 183 (Stroke)" d="M152 158L-12 158L-12 152L152 152L152 158Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 184 (Stroke)" d="M177 129L-14 129L-14 123L177 123L177 129Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 188 (Stroke)" d="M247 59L50 59L50 53L247 53L247 59Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 189 (Stroke)" d="M275 32L30 32L30 26L275 26L275 32Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 186 (Stroke)" d="M177 125L177 160L171 160L171 125L177 125Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 187 (Stroke)" d="M204 99L204 159L198 159L198 99L204 99Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 185 (Stroke)" d="M204 102L-8 102L-8 96L204 96L204 102Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 56 (Stroke)" d="M1035 886L319 886L319 880L1035 880L1035 886Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 48 (Stroke)" d="M1035 767L812 767L812 761L1035 761L1035 767Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 49 (Stroke)" d="M1035 741L791 741L791 735L1035 735L1035 741Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 50 (Stroke)" d="M1035 715L764 715L764 709L1035 709L1035 715Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 51 (Stroke)" d="M1035 689L791 689L791 683L1035 683L1035 689Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 52 (Stroke)" d="M1035 663L812 663L812 657L1035 657L1035 663Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 72 (Stroke)" d="M667 794L667 714L673 714L673 794L667 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 73 (Stroke)" d="M646 794L646 714L652 714L652 794L646 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 74 (Stroke)" d="M626 794L626 714L632 714L632 794L626 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 75 (Stroke)" d="M604 794L604 714L610 714L610 794L604 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 76 (Stroke)" d="M582 794L582 714L588 714L588 794L582 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 77 (Stroke)" d="M561 794L561 714L567 714L567 794L561 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 83 (Stroke)" d="M518 794L518 714L524 714L524 794L518 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 84 (Stroke)" d="M497 794L497 714L503 714L503 794L497 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 85 (Stroke)" d="M476 794L476 714L482 714L482 794L476 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 86 (Stroke)" d="M455 794L455 714L461 714L461 794L455 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 53 (Stroke)" d="M1035 637L812 637L812 631L1035 631L1035 637Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 42 (Stroke)" d="M949 311L834 311L834 305L949 305L949 311Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 100 (Stroke)" d="M761 200L445 200L445 194L761 194L761 200Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 101 (Stroke)" d="M1035 121L468 121L468 115L1035 115L1035 121Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 102 (Stroke)" d="M1035 134L844 134L844 128L1035 128L1035 134Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 87 (Stroke)" d="M774 312L598 312L598 306L774 306L774 312Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 88 (Stroke)" d="M752 301L577 301L577 295L752 295L752 301Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 95 (Stroke)" d="M1035 235L816 235L816 229L1035 229L1035 235Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 89 (Stroke)" d="M734 290L555 290L555 284L734 284L734 290Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 96 (Stroke)" d="M1035 224L798 224L798 218L1035 218L1035 224Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 90 (Stroke)" d="M715 279L539 279L539 273L715 273L715 279Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 98 (Stroke)" d="M711 254L539 254L539 248L711 248L711 254Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 105 (Stroke)" d="M681 104L590 104L590 98L681 98L681 104Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 109 (Stroke)" d="M1035 93L916 93L916 87L1035 87L1035 93Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 110 (Stroke)" d="M1035 73L916 73L916 67L1035 67L1035 73Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 106 (Stroke)" d="M705 79L561 79L561 73L705 73L705 79Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 108 (Stroke)" d="M705 25L561 25L561 19L705 19L705 25Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 107 (Stroke)" d="M731 52L538 52L538 46L731 46L731 52Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 99 (Stroke)" d="M734 227L516 227L516 221L734 221L734 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 97 (Stroke)" d="M1035 213L779 213L779 207L1035 207L1035 213Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 169 (Stroke)" d="M698 602C699.65 602 701 600.65 701 599C701 597.34 699.65 596 698 596C696.34 596 695 597.34 695 599C695 600.65 696.34 602 698 602ZM698 591C693.58 591 690 594.58 690 599C690 603.41 693.58 607 698 607C702.41 607 706 603.41 706 599C706 594.58 702.41 591 698 591Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 191 (Stroke)" d="M669 482C670.65 482 672 480.65 672 479C672 477.34 670.65 476 669 476C667.34 476 666 477.34 666 479C666 480.65 667.34 482 669 482ZM669 471C664.58 471 661 474.58 661 479C661 483.41 664.58 487 669 487C673.41 487 677 483.41 677 479C677 474.58 673.41 471 669 471Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 192 (Stroke)" d="M647 482C648.65 482 650 480.65 650 479C650 477.34 648.65 476 647 476C645.34 476 644 477.34 644 479C644 480.65 645.34 482 647 482ZM647 471C642.58 471 639 474.58 639 479C639 483.41 642.58 487 647 487C651.41 487 655 483.41 655 479C655 474.58 651.41 471 647 471Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 193 (Stroke)" d="M623 481C624.65 481 626 479.65 626 478C626 476.34 624.65 475 623 475C621.34 475 620 476.34 620 478C620 479.65 621.34 481 623 481ZM623 470C618.58 470 615 473.58 615 478C615 482.41 618.58 486 623 486C627.41 486 631 482.41 631 478C631 473.58 627.41 470 623 470Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 194 (Stroke)" d="M590 466C591.65 466 593 464.65 593 463C593 461.34 591.65 460 590 460C588.34 460 587 461.34 587 463C587 464.65 588.34 466 590 466ZM590 455C585.58 455 582 458.58 582 463C582 467.41 585.58 471 590 471C594.41 471 598 467.41 598 463C598 458.58 594.41 455 590 455Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 197 (Stroke)" d="M652 328C650.34 328 649 329.34 649 331C649 332.65 650.34 334 652 334C653.65 334 655 332.65 655 331C655 329.34 653.65 328 652 328ZM652 339C656.41 339 660 335.41 660 331C660 326.58 656.41 323 652 323C647.58 323 644 326.58 644 331C644 335.41 647.58 339 652 339Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 195 (Stroke)" d="M555 466C556.65 466 558 464.65 558 463C558 461.34 556.65 460 555 460C553.34 460 552 461.34 552 463C552 464.65 553.34 466 555 466ZM555 455C550.58 455 547 458.58 547 463C547 467.41 550.58 471 555 471C559.41 471 563 467.41 563 463C563 458.58 559.41 455 555 455Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 218 (Stroke)" d="M68 763C69.65 763 71 761.65 71 760C71 758.34 69.65 757 68 757C66.34 757 65 758.34 65 760C65 761.65 66.34 763 68 763ZM68 752C63.58 752 60 755.58 60 760C60 764.41 63.58 768 68 768C72.41 768 76 764.41 76 760C76 755.58 72.41 752 68 752Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 219 (Stroke)" d="M44 736C45.65 736 47 734.65 47 733C47 731.34 45.65 730 44 730C42.34 730 41 731.34 41 733C41 734.65 42.34 736 44 736ZM44 725C39.58 725 36 728.58 36 733C36 737.41 39.58 741 44 741C48.41 741 52 737.41 52 733C52 728.58 48.41 725 44 725Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 220 (Stroke)" d="M20 710C21.65 710 23 708.65 23 707C23 705.34 21.65 704 20 704C18.34 704 17 705.34 17 707C17 708.65 18.34 710 20 710ZM20 699C15.58 699 12 702.58 12 707C12 711.41 15.58 715 20 715C24.41 715 28 711.41 28 707C28 702.58 24.41 699 20 699Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 221 (Stroke)" d="M44 684C45.65 684 47 682.65 47 681C47 679.34 45.65 678 44 678C42.34 678 41 679.34 41 681C41 682.65 42.34 684 44 684ZM44 673C39.58 673 36 676.58 36 681C36 685.41 39.58 689 44 689C48.41 689 52 685.41 52 681C52 676.58 48.41 673 44 673Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 224 (Stroke)" d="M87 421C88.65 421 90 419.65 90 418C90 416.34 88.65 415 87 415C85.34 415 84 416.34 84 418C84 419.65 85.34 421 87 421ZM87 410C82.58 410 79 413.58 79 418C79 422.41 82.58 426 87 426C91.41 426 95 422.41 95 418C95 413.58 91.41 410 87 410Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 225 (Stroke)" d="M110 395C111.65 395 113 393.65 113 392C113 390.34 111.65 389 110 389C108.34 389 107 390.34 107 392C107 393.65 108.34 395 110 395ZM110 384C105.58 384 102 387.58 102 392C102 396.41 105.58 400 110 400C114.41 400 118 396.41 118 392C118 387.58 114.41 384 110 384Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 229 (Stroke)" d="M47 59C48.65 59 50 57.65 50 56C50 54.34 48.65 53 47 53C45.34 53 44 54.34 44 56C44 57.65 45.34 59 47 59ZM47 48C42.58 48 39 51.58 39 56C39 60.41 42.58 64 47 64C51.41 64 55 60.41 55 56C55 51.58 51.41 48 47 48Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 230 (Stroke)" d="M24 32C25.65 32 27 30.65 27 29C27 27.34 25.65 26 24 26C22.34 26 21 27.34 21 29C21 30.65 22.34 32 24 32ZM24 21C19.58 21 16 24.58 16 29C16 33.41 19.58 37 24 37C28.41 37 32 33.41 32 29C32 24.58 28.41 21 24 21Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 222 (Stroke)" d="M68 656C69.65 656 71 654.65 71 653C71 651.34 69.65 650 68 650C66.34 650 65 651.34 65 653C65 654.65 66.34 656 68 656ZM68 645C63.58 645 60 648.58 60 653C60 657.41 63.58 661 68 661C72.41 661 76 657.41 76 653C76 648.58 72.41 645 68 645Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 198 (Stroke)" d="M687 328C685.34 328 684 329.34 684 331C684 332.65 685.34 334 687 334C688.65 334 690 332.65 690 331C690 329.34 688.65 328 687 328ZM687 339C691.41 339 695 335.41 695 331C695 326.58 691.41 323 687 323C682.58 323 679 326.58 679 331C679 335.41 682.58 339 687 339Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 202 (Stroke)" d="M717 249C715.34 249 714 250.34 714 252C714 253.65 715.34 255 717 255C718.65 255 720 253.65 720 252C720 250.34 718.65 249 717 249ZM717 260C721.41 260 725 256.41 725 252C725 247.58 721.41 244 717 244C712.58 244 709 247.58 709 252C709 256.41 712.58 260 717 260Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 206 (Stroke)" d="M686 99C684.34 99 683 100.34 683 102C683 103.65 684.34 105 686 105C687.65 105 689 103.65 689 102C689 100.34 687.65 99 686 99ZM686 110C690.41 110 694 106.41 694 102C694 97.58 690.41 94 686 94C681.58 94 678 97.58 678 102C678 106.41 681.58 110 686 110Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 208 (Stroke)" d="M711 74C709.34 74 708 75.34 708 77C708 78.65 709.34 80 711 80C712.65 80 714 78.65 714 77C714 75.34 712.65 74 711 74ZM711 85C715.41 85 719 81.41 719 77C719 72.58 715.41 69 711 69C706.58 69 703 72.58 703 77C703 81.41 706.58 85 711 85Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 212 (Stroke)" d="M711 20C709.34 20 708 21.34 708 23C708 24.65 709.34 26 711 26C712.65 26 714 24.65 714 23C714 21.34 712.65 20 711 20ZM711 31C715.41 31 719 27.41 719 23C719 18.58 715.41 15 711 15C706.58 15 703 18.58 703 23C703 27.41 706.58 31 711 31Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 210 (Stroke)" d="M737 47C735.34 47 734 48.34 734 50C734 51.65 735.34 53 737 53C738.65 53 740 51.65 740 50C740 48.34 738.65 47 737 47ZM737 58C741.41 58 745 54.41 745 50C745 45.58 741.41 42 737 42C732.58 42 729 45.58 729 50C729 54.41 732.58 58 737 58Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 203 (Stroke)" d="M533 249C531.34 249 530 250.34 530 252C530 253.65 531.34 255 533 255C534.65 255 536 253.65 536 252C536 250.34 534.65 249 533 249ZM533 260C537.41 260 541 256.41 541 252C541 247.58 537.41 244 533 244C528.58 244 525 247.58 525 252C525 256.41 528.58 260 533 260Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 207" d="M592 102C592 106.41 588.41 110 584 110C579.58 110 576 106.41 576 102C576 97.58 579.58 94 584 94C588.41 94 592 97.58 592 102Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 209" d="M569 77C569 81.41 565.41 85 561 85C556.58 85 553 81.41 553 77C553 72.58 556.58 69 561 69C565.41 69 569 72.58 569 77Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 213" d="M569 23C569 27.41 565.41 31 561 31C556.58 31 553 27.41 553 23C553 18.58 556.58 15 561 15C565.41 15 569 18.58 569 23Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 211" d="M542 50C542 54.41 538.41 58 534 58C529.58 58 526 54.41 526 50C526 45.58 529.58 42 534 42C538.41 42 542 45.58 542 50Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 204 (Stroke)" d="M509 221C507.34 221 506 222.34 506 224C506 225.65 507.34 227 509 227C510.65 227 512 225.65 512 224C512 222.34 510.65 221 509 221ZM509 232C513.41 232 517 228.41 517 224C517 219.58 513.41 216 509 216C504.58 216 501 219.58 501 224C501 228.41 504.58 232 509 232Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 205 (Stroke)" d="M741 221C739.34 221 738 222.34 738 224C738 225.65 739.34 227 741 227C742.65 227 744 225.65 744 224C744 222.34 742.65 221 741 221ZM741 232C745.41 232 749 228.41 749 224C749 219.58 745.41 216 741 216C736.58 216 733 219.58 733 224C733 228.41 736.58 232 741 232Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 196 (Stroke)" d="M555 432C556.65 432 558 430.65 558 429C558 427.34 556.65 426 555 426C553.34 426 552 427.34 552 429C552 430.65 553.34 432 555 432ZM555 421C550.58 421 547 424.58 547 429C547 433.41 550.58 437 555 437C559.41 437 563 433.41 563 429C563 424.58 559.41 421 555 421Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 199 (Stroke)" d="M687 362C685.34 362 684 363.34 684 365C684 366.65 685.34 368 687 368C688.65 368 690 366.65 690 365C690 363.34 688.65 362 687 362ZM687 373C691.41 373 695 369.41 695 365C695 360.58 691.41 357 687 357C682.58 357 679 360.58 679 365C679 369.41 682.58 373 687 373Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 200 (Stroke)" d="M827 305C825.34 305 824 306.34 824 308C824 309.65 825.34 311 827 311C828.65 311 830 309.65 830 308C830 306.34 828.65 305 827 305ZM827 316C831.41 316 835 312.41 835 308C835 303.58 831.41 300 827 300C822.58 300 819 303.58 819 308C819 312.41 822.58 316 827 316Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 201 (Stroke)" d="M780 306C778.34 306 777 307.34 777 309C777 310.65 778.34 312 780 312C781.65 312 783 310.65 783 309C783 307.34 781.65 306 780 306ZM780 317C784.41 317 788 313.41 788 309C788 304.58 784.41 301 780 301C775.58 301 772 304.58 772 309C772 313.41 775.58 317 780 317Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 170 (Stroke)" d="M746 602C747.65 602 749 600.65 749 599C749 597.34 747.65 596 746 596C744.34 596 743 597.34 743 599C743 600.65 744.34 602 746 602ZM746 591C741.58 591 738 594.58 738 599C738 603.41 741.58 607 746 607C750.41 607 754 603.41 754 599C754 594.58 750.41 591 746 591Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 174 (Stroke)" d="M769 566C770.65 566 772 564.65 772 563C772 561.34 770.65 560 769 560C767.34 560 766 561.34 766 563C766 564.65 767.34 566 769 566ZM769 555C764.58 555 761 558.58 761 563C761 567.41 764.58 571 769 571C773.41 571 777 567.41 777 563C777 558.58 773.41 555 769 555Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 186 (Stroke)" d="M758 715C759.65 715 761 713.65 761 712C761 710.34 759.65 709 758 709C756.34 709 755 710.34 755 712C755 713.65 756.34 715 758 715ZM758 704C753.58 704 750 707.58 750 712C750 716.41 753.58 720 758 720C762.41 720 766 716.41 766 712C766 707.58 762.41 704 758 704Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 187 (Stroke)" d="M785 740C786.65 740 788 738.65 788 737C788 735.34 786.65 734 785 734C783.34 734 782 735.34 782 737C782 738.65 783.34 740 785 740ZM785 729C780.58 729 777 732.58 777 737C777 741.41 780.58 745 785 745C789.41 745 793 741.41 793 737C793 732.58 789.41 729 785 729Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 190 (Stroke)" d="M785 688C786.65 688 788 686.65 788 685C788 683.34 786.65 682 785 682C783.34 682 782 683.34 782 685C782 686.65 783.34 688 785 688ZM785 677C780.58 677 777 680.58 777 685C777 689.41 780.58 693 785 693C789.41 693 793 689.41 793 685C793 680.58 789.41 677 785 677Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 188 (Stroke)" d="M807 767C808.65 767 810 765.65 810 764C810 762.34 808.65 761 807 761C805.34 761 804 762.34 804 764C804 765.65 805.34 767 807 767ZM807 756C802.58 756 799 759.58 799 764C799 768.41 802.58 772 807 772C811.41 772 815 768.41 815 764C815 759.58 811.41 756 807 756Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 189 (Stroke)" d="M807 662C808.65 662 810 660.65 810 659C810 657.34 808.65 656 807 656C805.34 656 804 657.34 804 659C804 660.65 805.34 662 807 662ZM807 651C802.58 651 799 654.58 799 659C799 663.41 802.58 667 807 667C811.41 667 815 663.41 815 659C815 654.58 811.41 651 807 651Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 175 (Stroke)" d="M794 539C795.65 539 797 537.65 797 536C797 534.34 795.65 533 794 533C792.34 533 791 534.34 791 536C791 537.65 792.34 539 794 539ZM794 528C789.58 528 786 531.58 786 536C786 540.41 789.58 544 794 544C798.41 544 802 540.41 802 536C802 531.58 798.41 528 794 528Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 177 (Stroke)" d="M742 539C743.65 539 745 537.65 745 536C745 534.34 743.65 533 742 533C740.34 533 739 534.34 739 536C739 537.65 740.34 539 742 539ZM742 528C737.58 528 734 531.58 734 536C734 540.41 737.58 544 742 544C746.41 544 750 540.41 750 536C750 531.58 746.41 528 742 528Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 176 (Stroke)" d="M820 515C821.65 515 823 513.65 823 512C823 510.34 821.65 509 820 509C818.34 509 817 510.34 817 512C817 513.65 818.34 515 820 515ZM820 504C815.58 504 812 507.58 812 512C812 516.41 815.58 520 820 520C824.41 520 828 516.41 828 512C828 507.58 824.41 504 820 504Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 178 (Stroke)" d="M715 515C716.65 515 718 513.65 718 512C718 510.34 716.65 509 715 509C713.34 509 712 510.34 712 512C712 513.65 713.34 515 715 515ZM715 504C710.58 504 707 507.58 707 512C707 516.41 710.58 520 715 520C719.41 520 723 516.41 723 512C723 507.58 719.41 504 715 504Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 171 (Stroke)" d="M945.5 594C943.01 594 941 596.01 941 598.5C941 600.98 943.01 603 945.5 603C947.98 603 950 600.98 950 598.5C950 596.01 947.98 594 945.5 594ZM945.5 589C940.25 589 936 593.25 936 598.5C936 603.74 940.25 608 945.5 608C950.74 608 955 603.74 955 598.5C955 593.25 950.74 589 945.5 589Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 172 (Stroke)" d="M910.5 559C908.01 559 906 561.01 906 563.5C906 565.98 908.01 568 910.5 568C912.98 568 915 565.98 915 563.5C915 561.01 912.98 559 910.5 559ZM910.5 554C905.25 554 901 558.25 901 563.5C901 568.74 905.25 573 910.5 573C915.74 573 920 568.74 920 563.5C920 558.25 915.74 554 910.5 554Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 173 (Stroke)" d="M876 530C873.79 530 872 531.79 872 534C872 536.2 873.79 538 876 538C878.2 538 880 536.2 880 534C880 531.79 878.2 530 876 530ZM876 525C871.02 525 867 529.02 867 534C867 538.97 871.02 543 876 543C880.97 543 885 538.97 885 534C885 529.02 880.97 525 876 525Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 179" d="M867 399C867 394.02 871.02 390 876 390C880.97 390 885 394.02 885 399C885 403.97 880.97 408 876 408C871.02 408 867 403.97 867 399Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 180" d="M902 373C902 368.02 906.02 364 911 364C915.97 364 920 368.02 920 373C920 377.97 915.97 382 911 382C906.02 382 902 377.97 902 373Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 181" d="M812 412C812 407.58 815.58 404 820 404C824.41 404 828 407.58 828 412C828 416.41 824.41 420 820 420C815.58 420 812 416.41 812 412Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 185" d="M707 412C707 407.58 710.58 404 715 404C719.41 404 723 407.58 723 412C723 416.41 719.41 420 715 420C710.58 420 707 416.41 707 412Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 223" d="M48 282C48 277.58 51.58 274 56 274C60.41 274 64 277.58 64 282C64 286.41 60.41 290 56 290C51.58 290 48 286.41 48 282Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 226" d="M25 255C25 250.58 28.58 247 33 247C37.41 247 41 250.58 41 255C41 259.41 37.41 263 33 263C28.58 263 25 259.41 25 255Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 227" d="M25 203C25 198.58 28.58 195 33 195C37.41 195 41 198.58 41 203C41 207.41 37.41 211 33 211C28.58 211 25 207.41 25 203Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 228" d="M50 176C50 171.58 53.58 168 58 168C62.41 168 66 171.58 66 176C66 180.41 62.41 184 58 184C53.58 184 50 180.41 50 176Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 182" d="M786 387C786 382.58 789.58 379 794 379C798.41 379 802 382.58 802 387C802 391.41 798.41 395 794 395C789.58 395 786 391.41 786 387Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 184" d="M734 387C734 382.58 737.58 379 742 379C746.41 379 750 382.58 750 387C750 391.41 746.41 395 742 395C737.58 395 734 391.41 734 387Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 183" d="M761 360C761 355.58 764.58 352 769 352C773.41 352 777 355.58 777 360C777 364.41 773.41 368 769 368C764.58 368 761 364.41 761 360Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 214" d="M958 28C958 23.58 961.58 20 966 20C970.41 20 974 23.58 974 28C974 32.41 970.41 36 966 36C961.58 36 958 32.41 958 28Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 215" d="M937 45C937 40.58 940.58 37 945 37C949.41 37 953 40.58 953 45C953 49.41 949.41 53 945 53C940.58 53 937 49.41 937 45Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 216" d="M916 28C916 23.58 919.58 20 924 20C928.41 20 932 23.58 932 28C932 32.41 928.41 36 924 36C919.58 36 916 32.41 916 28Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 217" d="M895 14C895 9.58 898.58 6 903 6C907.41 6 911 9.58 911 14C911 18.41 907.41 22 903 22C898.58 22 895 18.41 895 14Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Line 12 (Stroke)" d="M1688 -4L1688 645L1694 645L1694 -4L1688 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 137 (Stroke)" d="M1716 273L1716 736L1722 736L1722 273L1716 273Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 158 (Stroke)" d="M1710 -4L1710 269L1716 269L1716 -4L1710 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 159 (Stroke)" d="M1737 -4L1737 240L1743 240L1743 -4L1737 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 160 (Stroke)" d="M1764 -4L1764 212L1770 212L1770 -4L1764 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 161 (Stroke)" d="M1791 -4L1791 185L1797 185L1797 -4L1791 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 162 (Stroke)" d="M1818 -4L1818 160L1824 160L1824 -4L1818 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 139 (Stroke)" d="M1749 307L1749 627L1755 627L1755 307L1749 307Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 152 (Stroke)" d="M1779 336L1779 509L1785 509L1785 336L1779 336Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 153 (Stroke)" d="M1805 309L1805 484L1811 484L1811 309L1805 309Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 154 (Stroke)" d="M1830 279L1830 456L1836 456L1836 279L1830 279Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 155 (Stroke)" d="M1857 255L1857 430L1863 430L1863 255L1857 255Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 156 (Stroke)" d="M1882 227L1882 404L1888 404L1888 227L1882 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 178 (Stroke)" d="M1930 227L1930 367L1936 367L1936 227L1930 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 179 (Stroke)" d="M1958 225L1958 342L1964 342L1964 225L1958 225Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 180 (Stroke)" d="M1984 226L1984 311L1990 311L1990 226L1984 226Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 16 (Stroke)" d="M1593 340L1593 671L1599 671L1599 340L1593 340Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 24 (Stroke)" d="M1352 417L1352 505L1358 505L1358 417L1352 417Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 29 (Stroke)" d="M1419 338L1509 428L1513.24 423.75L1423.24 333.75L1419 338Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 32 (Stroke)" d="M1448 484L1514 550L1518.24 545.75L1452.24 479.75L1448 484Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 58 (Stroke)" d="M1470 641L1397 714L1401.24 718.24L1474.24 645.24L1470 641Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 78 (Stroke)" d="M1492 640L1418 714L1422.24 718.24L1496.24 644.24L1492 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 79 (Stroke)" d="M1514 640L1438 714L1442.19 718.29L1518.19 644.29L1514 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 80 (Stroke)" d="M1536 641L1460.21 714.21L1464.38 718.52L1540.17 645.31L1536 641Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 81 (Stroke)" d="M1557 641L1482 714L1486.18 718.3L1561.18 645.3L1557 641Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 82 (Stroke)" d="M1579 640L1502.78 714.77L1506.98 719.05L1583.2 644.28L1579 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 64 (Stroke)" d="M1646 640L1567 714L1571.1 718.37L1650.1 644.37L1646 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 33 (Stroke)" d="M1426 485L1492 551L1496.24 546.75L1430.24 480.75L1426 485Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 65 (Stroke)" d="M1668 640L1588 714L1592.07 718.4L1672.07 644.4L1668 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 34 (Stroke)" d="M1404 485L1470 551L1474.24 546.75L1408.24 480.75L1404 485Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 66 (Stroke)" d="M1624 640L1546 714L1550.13 718.35L1628.13 644.35L1624 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 67 (Stroke)" d="M1690 640L1609 714L1613.05 718.43L1694.05 644.43L1690 640Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 138 (Stroke)" d="M1808.58 678L1753.58 623L1749.34 627.24L1804.34 682.24L1808.58 678Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 147 (Stroke)" d="M1853 575L1783 505L1778.76 509.24L1848.76 579.24L1853 575Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 148 (Stroke)" d="M1878 549L1809 480L1804.76 484.24L1873.76 553.24L1878 549Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 149 (Stroke)" d="M1905 523L1834 452L1829.76 456.24L1900.76 527.24L1905 523Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 157 (Stroke)" d="M1811 309L1741 236L1736.67 240.15L1806.67 313.15L1811 309Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 163 (Stroke)" d="M1837 279L1768 207L1763.67 211.15L1832.67 283.15L1837 279Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 164 (Stroke)" d="M1864 255L1795 181L1790.61 185.09L1859.61 259.09L1864 255Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 165 (Stroke)" d="M1887 227L1823 156L1818.54 160.01L1882.54 231.01L1887 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 166 (Stroke)" d="M1936.79 227L1870 155L1865.6 159.08L1932.4 231.08L1936.79 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 168 (Stroke)" d="M1962.79 226L1897 155L1892.6 159.07L1958.39 230.07L1962.79 226Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 169 (Stroke)" d="M1987.79 225L1922 154L1917.6 158.07L1983.39 229.07L1987.79 225Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 167 (Stroke)" d="M1785 336L1715 265L1710.73 269.21L1780.73 340.21L1785 336Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 150 (Stroke)" d="M1932 497L1861 426L1856.76 430.24L1927.76 501.24L1932 497Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 151 (Stroke)" d="M1956 470L1886 400L1881.76 404.24L1951.76 474.24L1956 470Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 140 (Stroke)" d="M1920 657L1960 617L1955.76 612.75L1915.76 652.75L1920 657Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 136 (Stroke)" d="M1655 730L1626 759L1630.24 763.24L1659.24 734.24L1655 730Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 118 (Stroke)" d="M1768 846L1840 913L1844.09 908.6L1772.09 841.6L1768 846Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 121 (Stroke)" d="M1718.2 911.92L1852.2 1045.92L1856.44 1041.68L1722.44 907.68L1718.2 911.92Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 123 (Stroke)" d="M1691.68 938.4L1786.68 1033.41L1790.92 1029.17L1695.92 934.16L1691.68 938.4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 119 (Stroke)" d="M1793 819L1869 887L1873 882.52L1797 814.52L1793 819Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 128 (Stroke)" d="M2011 911L2072 972L2076.24 967.75L2015.24 906.75L2011 911Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 129 (Stroke)" d="M1985 952L2079 1046L2083.24 1041.76L1989.24 947.75L1985 952Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 130 (Stroke)" d="M2036 885L2078 927L2082.24 922.75L2040.24 880.75L2036 885Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 122 (Stroke)" d="M1746 884L1826 954L1829.95 949.48L1749.95 879.48L1746 884Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 120 (Stroke)" d="M1820 792L1894 861L1898.09 856.61L1824.09 787.61L1820 792Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 57 (Stroke)" d="M1255 635L1331 702L1334.97 697.49L1258.97 630.49L1255 635Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 30 (Stroke)" d="M1385 338L1508 461L1512.24 456.75L1389.24 333.75L1385 338Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 31 (Stroke)" d="M1385 372L1474 461L1478.24 456.75L1389.24 367.75L1385 372Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 20 (Stroke)" d="M1599 341L1531 273L1526.76 277.24L1594.76 345.24L1599 341Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 13 (Stroke)" d="M1666 -4L1666 645L1672 645L1672 -4L1666 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 17 (Stroke)" d="M1577 352L1577 645L1583 645L1583 352L1577 352Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 35 (Stroke)" d="M1512 545L1512 645L1518 645L1518 545L1512 545Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 25 (Stroke)" d="M1325 391L1325 531L1331 531L1331 391L1325 391Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 21 (Stroke)" d="M1583 352L1515 284L1510.76 288.24L1578.76 356.24L1583 352Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 92 (Stroke)" d="M1359 275L1291 207L1286.76 211.24L1354.76 279.24L1359 275Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 103 (Stroke)" d="M1313 195L1225 128L1221.37 132.77L1309.37 199.77L1313 195Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 111 (Stroke)" d="M1154 93L1250 -3L1245.76 -7.25L1149.76 88.75L1154 93Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 112 (Stroke)" d="M1154 73L1231 -4L1226.76 -8.25L1149.76 68.75L1154 73Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 104 (Stroke)" d="M1649 162L1602 115L1597.76 119.24L1644.76 166.24L1649 162Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 22 (Stroke)" d="M1561 363L1493 295L1488.76 299.24L1556.76 367.24L1561 363Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 93 (Stroke)" d="M1340 286L1272 218L1267.76 222.24L1335.76 290.24L1340 286Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 23 (Stroke)" d="M1540 374L1472 306L1467.76 310.24L1535.76 378.24L1540 374Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 94 (Stroke)" d="M1322 297L1254 229L1249.76 233.24L1317.76 301.24L1322 297Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 14 (Stroke)" d="M1644 -4L1644 645L1650 645L1650 -4L1644 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 18 (Stroke)" d="M1555 362L1555 645L1561 645L1561 362L1555 362Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 36 (Stroke)" d="M1490 546L1490 645L1496 645L1496 546L1490 546Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 26 (Stroke)" d="M1298 363L1298 558L1304 558L1304 363L1298 363Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 15 (Stroke)" d="M1622 -4L1622 645L1628 645L1628 -4L1622 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 19 (Stroke)" d="M1534 374L1534 645L1540 645L1540 374L1534 374Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 37 (Stroke)" d="M1468 547L1468 645L1474 645L1474 547L1468 547Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 27 (Stroke)" d="M1273 391L1273 529L1279 529L1279 391L1273 391Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 28 (Stroke)" d="M1247 417L1247 505L1253 505L1253 417L1247 417Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 38 (Stroke)" d="M1191 407L1191 529L1197 529L1197 407L1191 407Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 39 (Stroke)" d="M1156 381L1156 555L1162 555L1162 381L1156 381Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 40 (Stroke)" d="M1121 307L1121 591L1127 591L1127 307L1121 307Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 114 (Stroke)" d="M1101 -4L1101 27L1107 27L1107 -4L1101 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 115 (Stroke)" d="M1122 -4L1122 40L1128 40L1128 -4L1122 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 116 (Stroke)" d="M1143 -4L1143 31L1149 31L1149 -4L1143 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 117 (Stroke)" d="M1164 -4L1164 13L1170 13L1170 -4L1164 -4Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 41 (Stroke)" d="M1131 602L1318 602L1318 596L1131 596L1131 602Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 43 (Stroke)" d="M1378 602L1470 602L1470 596L1378 596L1378 602Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 44 (Stroke)" d="M1331 702L1416 702L1416 696L1331 696L1331 702Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 45 (Stroke)" d="M1035 848L1772 848L1772 842L1035 842L1035 848Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 124 (Stroke)" d="M1826 954L1989 954L1989 948L1826 948L1826 954Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 125 (Stroke)" d="M1840 913L2016 913L2016 907L1840 907L1840 913Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 126 (Stroke)" d="M1869 887L2040 887L2040 881L1869 881L1869 887Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 127 (Stroke)" d="M1894 861L2097 861L2097 855L1894 855L1894 861Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 54 (Stroke)" d="M1035 940L1696 940L1696 934L1035 934L1035 940Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 46 (Stroke)" d="M1035 821L1797 821L1797 815L1035 815L1035 821Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 55 (Stroke)" d="M1035 913L1722 913L1722 907L1035 907L1035 913Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 47 (Stroke)" d="M1035 794L1824 794L1824 788L1035 788L1035 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 131 (Stroke)" d="M1615 764L1996 764L1996 758L1615 758L1615 764Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 132 (Stroke)" d="M1655 736L2020 736L2020 730L1655 730L1655 736Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 133 (Stroke)" d="M1719 709L2044 709L2044 703L1719 703L1719 709Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 134 (Stroke)" d="M1719 683L2020 683L2020 677L1719 677L1719 683Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 135 (Stroke)" d="M1920 657L1998 657L1998 651L1920 651L1920 657Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 141 (Stroke)" d="M1956 618L2085 618L2085 612L1956 612L1956 618Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 142 (Stroke)" d="M1848 579L2085 579L2085 573L1848 573L1848 579Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 143 (Stroke)" d="M1874 553L2090 553L2090 547L1874 547L1874 553Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 144 (Stroke)" d="M1901 527L2095 527L2095 521L1901 521L1901 527Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 145 (Stroke)" d="M1928 501L2082 501L2082 495L1928 495L1928 501Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 146 (Stroke)" d="M1952 475L2068 475L2068 469L1952 469L1952 475Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 170 (Stroke)" d="M1989 422L2068 422L2068 416L1989 416L1989 422Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 171 (Stroke)" d="M1966 395L2070 395L2070 389L1966 389L1966 395Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 172 (Stroke)" d="M1933 367L2068 367L2068 361L1933 361L1933 367Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 173 (Stroke)" d="M1933 342L2068 342L2068 336L1933 336L1933 342Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 174 (Stroke)" d="M1933 315L2068 315L2068 309L1933 309L1933 315Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 175 (Stroke)" d="M1933 285L2011 285L2011 279L1933 279L1933 285Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 176 (Stroke)" d="M1933 259L2037 259L2037 253L1933 253L1933 259Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 177 (Stroke)" d="M1933 230L2068 230L2068 224L1933 224L1933 230Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 181 (Stroke)" d="M1963 205L2037 205L2037 199L1963 199L1963 205Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 182 (Stroke)" d="M1938 178L2012 178L2012 172L1938 172L1938 178Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 183 (Stroke)" d="M1918 158L2082 158L2082 152L1918 152L1918 158Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 184 (Stroke)" d="M1893 129L2084 129L2084 123L1893 123L1893 129Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 188 (Stroke)" d="M1823 59L2020 59L2020 53L1823 53L1823 59Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 189 (Stroke)" d="M1795 32L2040 32L2040 26L1795 26L1795 32Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 186 (Stroke)" d="M1893 125L1893 160L1899 160L1899 125L1893 125Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 187 (Stroke)" d="M1866 99L1866 159L1872 159L1872 99L1866 99Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 185 (Stroke)" d="M1866 102L2078 102L2078 96L1866 96L1866 102Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 56 (Stroke)" d="M1035 886L1751 886L1751 880L1035 880L1035 886Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 48 (Stroke)" d="M1035 767L1258 767L1258 761L1035 761L1035 767Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 49 (Stroke)" d="M1035 741L1279 741L1279 735L1035 735L1035 741Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 50 (Stroke)" d="M1035 715L1306 715L1306 709L1035 709L1035 715Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 51 (Stroke)" d="M1035 689L1279 689L1279 683L1035 683L1035 689Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 52 (Stroke)" d="M1035 663L1258 663L1258 657L1035 657L1035 663Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 72 (Stroke)" d="M1403 794L1403 714L1397 714L1397 794L1403 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 73 (Stroke)" d="M1424 794L1424 714L1418 714L1418 794L1424 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 74 (Stroke)" d="M1444 794L1444 714L1438 714L1438 794L1444 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 75 (Stroke)" d="M1466 794L1466 714L1460 714L1460 794L1466 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 76 (Stroke)" d="M1488 794L1488 714L1482 714L1482 794L1488 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 77 (Stroke)" d="M1509 794L1509 714L1503 714L1503 794L1509 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 83 (Stroke)" d="M1552 794L1552 714L1546 714L1546 794L1552 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 84 (Stroke)" d="M1573 794L1573 714L1567 714L1567 794L1573 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 85 (Stroke)" d="M1594 794L1594 714L1588 714L1588 794L1594 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 86 (Stroke)" d="M1615 794L1615 714L1609 714L1609 794L1615 794Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 53 (Stroke)" d="M1035 637L1258 637L1258 631L1035 631L1035 637Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 42 (Stroke)" d="M1121 311L1236 311L1236 305L1121 305L1121 311Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 100 (Stroke)" d="M1309 200L1625 200L1625 194L1309 194L1309 200Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 101 (Stroke)" d="M1035 121L1602 121L1602 115L1035 115L1035 121Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 102 (Stroke)" d="M1035 134L1226 134L1226 128L1035 128L1035 134Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 87 (Stroke)" d="M1296 312L1472 312L1472 306L1296 306L1296 312Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 88 (Stroke)" d="M1318 301L1493 301L1493 295L1318 295L1318 301Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 95 (Stroke)" d="M1035 235L1254 235L1254 229L1035 229L1035 235Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 89 (Stroke)" d="M1336 290L1515 290L1515 284L1336 284L1336 290Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 96 (Stroke)" d="M1035 224L1272 224L1272 218L1035 218L1035 224Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 90 (Stroke)" d="M1355 279L1531 279L1531 273L1355 273L1355 279Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 98 (Stroke)" d="M1359 254L1531 254L1531 248L1359 248L1359 254Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 105 (Stroke)" d="M1389 104L1480 104L1480 98L1389 98L1389 104Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 109 (Stroke)" d="M1035 93L1154 93L1154 87L1035 87L1035 93Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 110 (Stroke)" d="M1035 73L1154 73L1154 67L1035 67L1035 73Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 106 (Stroke)" d="M1365 79L1509 79L1509 73L1365 73L1365 79Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 108 (Stroke)" d="M1365 25L1509 25L1509 19L1365 19L1365 25Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 107 (Stroke)" d="M1339 52L1532 52L1532 46L1339 46L1339 52Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 99 (Stroke)" d="M1336 227L1554 227L1554 221L1336 221L1336 227Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Line 97 (Stroke)" d="M1035 213L1291 213L1291 207L1035 207L1035 213Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 169 (Stroke)" d="M1372 602C1370.34 602 1369 600.65 1369 599C1369 597.34 1370.34 596 1372 596C1373.66 596 1375 597.34 1375 599C1375 600.65 1373.66 602 1372 602ZM1372 591C1376.42 591 1380 594.58 1380 599C1380 603.41 1376.42 607 1372 607C1367.58 607 1364 603.41 1364 599C1364 594.58 1367.58 591 1372 591Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 191 (Stroke)" d="M1401 482C1399.34 482 1398 480.65 1398 479C1398 477.34 1399.34 476 1401 476C1402.66 476 1404 477.34 1404 479C1404 480.65 1402.66 482 1401 482ZM1401 471C1405.42 471 1409 474.58 1409 479C1409 483.41 1405.42 487 1401 487C1396.58 487 1393 483.41 1393 479C1393 474.58 1396.58 471 1401 471Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 192 (Stroke)" d="M1423 482C1421.34 482 1420 480.65 1420 479C1420 477.34 1421.34 476 1423 476C1424.66 476 1426 477.34 1426 479C1426 480.65 1424.66 482 1423 482ZM1423 471C1427.42 471 1431 474.58 1431 479C1431 483.41 1427.42 487 1423 487C1418.58 487 1415 483.41 1415 479C1415 474.58 1418.58 471 1423 471Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 193 (Stroke)" d="M1447 481C1445.34 481 1444 479.65 1444 478C1444 476.34 1445.34 475 1447 475C1448.66 475 1450 476.34 1450 478C1450 479.65 1448.66 481 1447 481ZM1447 470C1451.42 470 1455 473.58 1455 478C1455 482.41 1451.42 486 1447 486C1442.58 486 1439 482.41 1439 478C1439 473.58 1442.58 470 1447 470Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 194 (Stroke)" d="M1480 466C1478.34 466 1477 464.65 1477 463C1477 461.34 1478.34 460 1480 460C1481.66 460 1483 461.34 1483 463C1483 464.65 1481.66 466 1480 466ZM1480 455C1484.42 455 1488 458.58 1488 463C1488 467.41 1484.42 471 1480 471C1475.58 471 1472 467.41 1472 463C1472 458.58 1475.58 455 1480 455Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 197 (Stroke)" d="M1418 328C1419.66 328 1421 329.34 1421 331C1421 332.65 1419.66 334 1418 334C1416.34 334 1415 332.65 1415 331C1415 329.34 1416.34 328 1418 328ZM1418 339C1413.58 339 1410 335.41 1410 331C1410 326.58 1413.58 323 1418 323C1422.42 323 1426 326.58 1426 331C1426 335.41 1422.42 339 1418 339Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 195 (Stroke)" d="M1515 466C1513.34 466 1512 464.65 1512 463C1512 461.34 1513.34 460 1515 460C1516.66 460 1518 461.34 1518 463C1518 464.65 1516.66 466 1515 466ZM1515 455C1519.42 455 1523 458.58 1523 463C1523 467.41 1519.42 471 1515 471C1510.58 471 1507 467.41 1507 463C1507 458.58 1510.58 455 1515 455Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 218 (Stroke)" d="M2002 763C2000.34 763 1999 761.65 1999 760C1999 758.34 2000.34 757 2002 757C2003.66 757 2005 758.34 2005 760C2005 761.65 2003.66 763 2002 763ZM2002 752C2006.42 752 2010 755.58 2010 760C2010 764.41 2006.42 768 2002 768C1997.58 768 1994 764.41 1994 760C1994 755.58 1997.58 752 2002 752Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 219 (Stroke)" d="M2026 736C2024.34 736 2023 734.65 2023 733C2023 731.34 2024.34 730 2026 730C2027.66 730 2029 731.34 2029 733C2029 734.65 2027.66 736 2026 736ZM2026 725C2030.42 725 2034 728.58 2034 733C2034 737.41 2030.42 741 2026 741C2021.58 741 2018 737.41 2018 733C2018 728.58 2021.58 725 2026 725Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 220 (Stroke)" d="M2050 710C2048.34 710 2047 708.65 2047 707C2047 705.34 2048.34 704 2050 704C2051.65 704 2053 705.34 2053 707C2053 708.65 2051.65 710 2050 710ZM2050 699C2054.42 699 2058 702.58 2058 707C2058 711.41 2054.42 715 2050 715C2045.58 715 2042 711.41 2042 707C2042 702.58 2045.58 699 2050 699Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 221 (Stroke)" d="M2026 684C2024.34 684 2023 682.65 2023 681C2023 679.34 2024.34 678 2026 678C2027.66 678 2029 679.34 2029 681C2029 682.65 2027.66 684 2026 684ZM2026 673C2030.42 673 2034 676.58 2034 681C2034 685.41 2030.42 689 2026 689C2021.58 689 2018 685.41 2018 681C2018 676.58 2021.58 673 2026 673Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 224 (Stroke)" d="M1983 421C1981.34 421 1980 419.65 1980 418C1980 416.34 1981.34 415 1983 415C1984.66 415 1986 416.34 1986 418C1986 419.65 1984.66 421 1983 421ZM1983 410C1987.42 410 1991 413.58 1991 418C1991 422.41 1987.42 426 1983 426C1978.58 426 1975 422.41 1975 418C1975 413.58 1978.58 410 1983 410Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 225 (Stroke)" d="M1960 395C1958.34 395 1957 393.65 1957 392C1957 390.34 1958.34 389 1960 389C1961.66 389 1963 390.34 1963 392C1963 393.65 1961.66 395 1960 395ZM1960 384C1964.42 384 1968 387.58 1968 392C1968 396.41 1964.42 400 1960 400C1955.58 400 1952 396.41 1952 392C1952 387.58 1955.58 384 1960 384Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 229 (Stroke)" d="M2023 59C2021.34 59 2020 57.65 2020 56C2020 54.34 2021.34 53 2023 53C2024.66 53 2026 54.34 2026 56C2026 57.65 2024.66 59 2023 59ZM2023 48C2027.42 48 2031 51.58 2031 56C2031 60.41 2027.42 64 2023 64C2018.58 64 2015 60.41 2015 56C2015 51.58 2018.58 48 2023 48Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 230 (Stroke)" d="M2046 32C2044.34 32 2043 30.65 2043 29C2043 27.34 2044.34 26 2046 26C2047.66 26 2049 27.34 2049 29C2049 30.65 2047.66 32 2046 32ZM2046 21C2050.42 21 2054 24.58 2054 29C2054 33.41 2050.42 37 2046 37C2041.58 37 2038 33.41 2038 29C2038 24.58 2041.58 21 2046 21Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 222 (Stroke)" d="M2002 656C2000.34 656 1999 654.65 1999 653C1999 651.34 2000.34 650 2002 650C2003.66 650 2005 651.34 2005 653C2005 654.65 2003.66 656 2002 656ZM2002 645C2006.42 645 2010 648.58 2010 653C2010 657.41 2006.42 661 2002 661C1997.58 661 1994 657.41 1994 653C1994 648.58 1997.58 645 2002 645Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 198 (Stroke)" d="M1383 328C1384.66 328 1386 329.34 1386 331C1386 332.65 1384.66 334 1383 334C1381.34 334 1380 332.65 1380 331C1380 329.34 1381.34 328 1383 328ZM1383 339C1378.58 339 1375 335.41 1375 331C1375 326.58 1378.58 323 1383 323C1387.42 323 1391 326.58 1391 331C1391 335.41 1387.42 339 1383 339Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 202 (Stroke)" d="M1353 249C1354.66 249 1356 250.34 1356 252C1356 253.65 1354.66 255 1353 255C1351.34 255 1350 253.65 1350 252C1350 250.34 1351.34 249 1353 249ZM1353 260C1348.58 260 1345 256.41 1345 252C1345 247.58 1348.58 244 1353 244C1357.42 244 1361 247.58 1361 252C1361 256.41 1357.42 260 1353 260Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 206 (Stroke)" d="M1384 99C1385.66 99 1387 100.34 1387 102C1387 103.65 1385.66 105 1384 105C1382.34 105 1381 103.65 1381 102C1381 100.34 1382.34 99 1384 99ZM1384 110C1379.58 110 1376 106.41 1376 102C1376 97.58 1379.58 94 1384 94C1388.42 94 1392 97.58 1392 102C1392 106.41 1388.42 110 1384 110Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 208 (Stroke)" d="M1359 74C1360.66 74 1362 75.34 1362 77C1362 78.65 1360.66 80 1359 80C1357.34 80 1356 78.65 1356 77C1356 75.34 1357.34 74 1359 74ZM1359 85C1354.58 85 1351 81.41 1351 77C1351 72.58 1354.58 69 1359 69C1363.42 69 1367 72.58 1367 77C1367 81.41 1363.42 85 1359 85Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 212 (Stroke)" d="M1359 20C1360.66 20 1362 21.34 1362 23C1362 24.65 1360.66 26 1359 26C1357.34 26 1356 24.65 1356 23C1356 21.34 1357.34 20 1359 20ZM1359 31C1354.58 31 1351 27.41 1351 23C1351 18.58 1354.58 15 1359 15C1363.42 15 1367 18.58 1367 23C1367 27.41 1363.42 31 1359 31Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 210 (Stroke)" d="M1333 47C1334.66 47 1336 48.34 1336 50C1336 51.65 1334.66 53 1333 53C1331.34 53 1330 51.65 1330 50C1330 48.34 1331.34 47 1333 47ZM1333 58C1328.58 58 1325 54.41 1325 50C1325 45.58 1328.58 42 1333 42C1337.42 42 1341 45.58 1341 50C1341 54.41 1337.42 58 1333 58Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 203 (Stroke)" d="M1537 249C1538.66 249 1540 250.34 1540 252C1540 253.65 1538.66 255 1537 255C1535.34 255 1534 253.65 1534 252C1534 250.34 1535.34 249 1537 249ZM1537 260C1532.58 260 1529 256.41 1529 252C1529 247.58 1532.58 244 1537 244C1541.42 244 1545 247.58 1545 252C1545 256.41 1541.42 260 1537 260Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 207" d="M1478 102C1478 106.41 1481.58 110 1486 110C1490.42 110 1494 106.41 1494 102C1494 97.58 1490.42 94 1486 94C1481.58 94 1478 97.58 1478 102Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 209" d="M1501 77C1501 81.41 1504.58 85 1509 85C1513.42 85 1517 81.41 1517 77C1517 72.58 1513.42 69 1509 69C1504.58 69 1501 72.58 1501 77Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 213" d="M1501 23C1501 27.41 1504.58 31 1509 31C1513.42 31 1517 27.41 1517 23C1517 18.58 1513.42 15 1509 15C1504.58 15 1501 18.58 1501 23Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 211" d="M1528 50C1528 54.41 1531.58 58 1536 58C1540.42 58 1544 54.41 1544 50C1544 45.58 1540.42 42 1536 42C1531.58 42 1528 45.58 1528 50Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 204 (Stroke)" d="M1561 221C1562.66 221 1564 222.34 1564 224C1564 225.65 1562.66 227 1561 227C1559.34 227 1558 225.65 1558 224C1558 222.34 1559.34 221 1561 221ZM1561 232C1556.58 232 1553 228.41 1553 224C1553 219.58 1556.58 216 1561 216C1565.42 216 1569 219.58 1569 224C1569 228.41 1565.42 232 1561 232Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 205 (Stroke)" d="M1329 221C1330.66 221 1332 222.34 1332 224C1332 225.65 1330.66 227 1329 227C1327.34 227 1326 225.65 1326 224C1326 222.34 1327.34 221 1329 221ZM1329 232C1324.58 232 1321 228.41 1321 224C1321 219.58 1324.58 216 1329 216C1333.42 216 1337 219.58 1337 224C1337 228.41 1333.42 232 1329 232Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 196 (Stroke)" d="M1515 432C1513.34 432 1512 430.65 1512 429C1512 427.34 1513.34 426 1515 426C1516.66 426 1518 427.34 1518 429C1518 430.65 1516.66 432 1515 432ZM1515 421C1519.42 421 1523 424.58 1523 429C1523 433.41 1519.42 437 1515 437C1510.58 437 1507 433.41 1507 429C1507 424.58 1510.58 421 1515 421Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 199 (Stroke)" d="M1383 362C1384.66 362 1386 363.34 1386 365C1386 366.65 1384.66 368 1383 368C1381.34 368 1380 366.65 1380 365C1380 363.34 1381.34 362 1383 362ZM1383 373C1378.58 373 1375 369.41 1375 365C1375 360.58 1378.58 357 1383 357C1387.42 357 1391 360.58 1391 365C1391 369.41 1387.42 373 1383 373Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 200 (Stroke)" d="M1243 305C1244.66 305 1246 306.34 1246 308C1246 309.65 1244.66 311 1243 311C1241.34 311 1240 309.65 1240 308C1240 306.34 1241.34 305 1243 305ZM1243 316C1238.57 316 1235 312.41 1235 308C1235 303.58 1238.57 300 1243 300C1247.42 300 1251 303.58 1251 308C1251 312.41 1247.42 316 1243 316Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 201 (Stroke)" d="M1290 306C1291.66 306 1293 307.34 1293 309C1293 310.65 1291.66 312 1290 312C1288.34 312 1287 310.65 1287 309C1287 307.34 1288.34 306 1290 306ZM1290 317C1285.57 317 1282 313.41 1282 309C1282 304.58 1285.57 301 1290 301C1294.42 301 1298 304.58 1298 309C1298 313.41 1294.42 317 1290 317Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 170 (Stroke)" d="M1324 602C1322.34 602 1321 600.65 1321 599C1321 597.34 1322.34 596 1324 596C1325.66 596 1327 597.34 1327 599C1327 600.65 1325.66 602 1324 602ZM1324 591C1328.42 591 1332 594.58 1332 599C1332 603.41 1328.42 607 1324 607C1319.58 607 1316 603.41 1316 599C1316 594.58 1319.58 591 1324 591Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 174 (Stroke)" d="M1301 566C1299.34 566 1298 564.65 1298 563C1298 561.34 1299.34 560 1301 560C1302.66 560 1304 561.34 1304 563C1304 564.65 1302.66 566 1301 566ZM1301 555C1305.42 555 1309 558.58 1309 563C1309 567.41 1305.42 571 1301 571C1296.57 571 1293 567.41 1293 563C1293 558.58 1296.57 555 1301 555Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 186 (Stroke)" d="M1312 715C1310.34 715 1309 713.65 1309 712C1309 710.34 1310.34 709 1312 709C1313.66 709 1315 710.34 1315 712C1315 713.65 1313.66 715 1312 715ZM1312 704C1316.42 704 1320 707.58 1320 712C1320 716.41 1316.42 720 1312 720C1307.57 720 1304 716.41 1304 712C1304 707.58 1307.57 704 1312 704Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 187 (Stroke)" d="M1285 740C1283.34 740 1282 738.65 1282 737C1282 735.34 1283.34 734 1285 734C1286.66 734 1288 735.34 1288 737C1288 738.65 1286.66 740 1285 740ZM1285 729C1289.42 729 1293 732.58 1293 737C1293 741.41 1289.42 745 1285 745C1280.57 745 1277 741.41 1277 737C1277 732.58 1280.57 729 1285 729Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 190 (Stroke)" d="M1285 688C1283.34 688 1282 686.65 1282 685C1282 683.34 1283.34 682 1285 682C1286.66 682 1288 683.34 1288 685C1288 686.65 1286.66 688 1285 688ZM1285 677C1289.42 677 1293 680.58 1293 685C1293 689.41 1289.42 693 1285 693C1280.57 693 1277 689.41 1277 685C1277 680.58 1280.57 677 1285 677Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 188 (Stroke)" d="M1263 767C1261.34 767 1260 765.65 1260 764C1260 762.34 1261.34 761 1263 761C1264.66 761 1266 762.34 1266 764C1266 765.65 1264.66 767 1263 767ZM1263 756C1267.42 756 1271 759.58 1271 764C1271 768.41 1267.42 772 1263 772C1258.57 772 1255 768.41 1255 764C1255 759.58 1258.57 756 1263 756Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 189 (Stroke)" d="M1263 662C1261.34 662 1260 660.65 1260 659C1260 657.34 1261.34 656 1263 656C1264.66 656 1266 657.34 1266 659C1266 660.65 1264.66 662 1263 662ZM1263 651C1267.42 651 1271 654.58 1271 659C1271 663.41 1267.42 667 1263 667C1258.57 667 1255 663.41 1255 659C1255 654.58 1258.57 651 1263 651Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 175 (Stroke)" d="M1276 539C1274.34 539 1273 537.65 1273 536C1273 534.34 1274.34 533 1276 533C1277.66 533 1279 534.34 1279 536C1279 537.65 1277.66 539 1276 539ZM1276 528C1280.42 528 1284 531.58 1284 536C1284 540.41 1280.42 544 1276 544C1271.57 544 1268 540.41 1268 536C1268 531.58 1271.57 528 1276 528Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 177 (Stroke)" d="M1328 539C1326.34 539 1325 537.65 1325 536C1325 534.34 1326.34 533 1328 533C1329.66 533 1331 534.34 1331 536C1331 537.65 1329.66 539 1328 539ZM1328 528C1332.42 528 1336 531.58 1336 536C1336 540.41 1332.42 544 1328 544C1323.58 544 1320 540.41 1320 536C1320 531.58 1323.58 528 1328 528Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 176 (Stroke)" d="M1250 515C1248.34 515 1247 513.65 1247 512C1247 510.34 1248.34 509 1250 509C1251.66 509 1253 510.34 1253 512C1253 513.65 1251.66 515 1250 515ZM1250 504C1254.42 504 1258 507.58 1258 512C1258 516.41 1254.42 520 1250 520C1245.57 520 1242 516.41 1242 512C1242 507.58 1245.57 504 1250 504Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 178 (Stroke)" d="M1355 515C1353.34 515 1352 513.65 1352 512C1352 510.34 1353.34 509 1355 509C1356.66 509 1358 510.34 1358 512C1358 513.65 1356.66 515 1355 515ZM1355 504C1359.42 504 1363 507.58 1363 512C1363 516.41 1359.42 520 1355 520C1350.58 520 1347 516.41 1347 512C1347 507.58 1350.58 504 1355 504Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 171 (Stroke)" d="M1124.5 594C1126.99 594 1129 596.01 1129 598.5C1129 600.98 1126.99 603 1124.5 603C1122.01 603 1120 600.98 1120 598.5C1120 596.01 1122.01 594 1124.5 594ZM1124.5 589C1129.75 589 1134 593.25 1134 598.5C1134 603.74 1129.75 608 1124.5 608C1119.25 608 1115 603.74 1115 598.5C1115 593.25 1119.25 589 1124.5 589Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 172 (Stroke)" d="M1159.5 559C1161.99 559 1164 561.01 1164 563.5C1164 565.98 1161.99 568 1159.5 568C1157.01 568 1155 565.98 1155 563.5C1155 561.01 1157.01 559 1159.5 559ZM1159.5 554C1164.75 554 1169 558.25 1169 563.5C1169 568.74 1164.75 573 1159.5 573C1154.25 573 1150 568.74 1150 563.5C1150 558.25 1154.25 554 1159.5 554Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 173 (Stroke)" d="M1194 530C1196.21 530 1198 531.79 1198 534C1198 536.2 1196.21 538 1194 538C1191.79 538 1190 536.2 1190 534C1190 531.79 1191.79 530 1194 530ZM1194 525C1198.97 525 1203 529.02 1203 534C1203 538.97 1198.97 543 1194 543C1189.03 543 1185 538.97 1185 534C1185 529.02 1189.03 525 1194 525Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Ellipse 179" d="M1203 399C1203 394.02 1198.97 390 1194 390C1189.03 390 1185 394.02 1185 399C1185 403.97 1189.03 408 1194 408C1198.97 408 1203 403.97 1203 399Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 180" d="M1168 373C1168 368.02 1163.97 364 1159 364C1154.03 364 1150 368.02 1150 373C1150 377.97 1154.03 382 1159 382C1163.97 382 1168 377.97 1168 373Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 181" d="M1258 412C1258 407.58 1254.42 404 1250 404C1245.57 404 1242 407.58 1242 412C1242 416.41 1245.57 420 1250 420C1254.42 420 1258 416.41 1258 412Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 185" d="M1363 412C1363 407.58 1359.42 404 1355 404C1350.58 404 1347 407.58 1347 412C1347 416.41 1350.58 420 1355 420C1359.42 420 1363 416.41 1363 412Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 223" d="M2022 282C2022 277.58 2018.42 274 2014 274C2009.58 274 2006 277.58 2006 282C2006 286.41 2009.58 290 2014 290C2018.42 290 2022 286.41 2022 282Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 226" d="M2045 255C2045 250.58 2041.42 247 2037 247C2032.58 247 2029 250.58 2029 255C2029 259.41 2032.58 263 2037 263C2041.42 263 2045 259.41 2045 255Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 227" d="M2045 203C2045 198.58 2041.42 195 2037 195C2032.58 195 2029 198.58 2029 203C2029 207.41 2032.58 211 2037 211C2041.42 211 2045 207.41 2045 203Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 228" d="M2020 176C2020 171.58 2016.42 168 2012 168C2007.58 168 2004 171.58 2004 176C2004 180.41 2007.58 184 2012 184C2016.42 184 2020 180.41 2020 176Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 182" d="M1284 387C1284 382.58 1280.42 379 1276 379C1271.57 379 1268 382.58 1268 387C1268 391.41 1271.57 395 1276 395C1280.42 395 1284 391.41 1284 387Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 184" d="M1336 387C1336 382.58 1332.42 379 1328 379C1323.58 379 1320 382.58 1320 387C1320 391.41 1323.58 395 1328 395C1332.42 395 1336 391.41 1336 387Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 183" d="M1309 360C1309 355.58 1305.42 352 1301 352C1296.57 352 1293 355.58 1293 360C1293 364.41 1296.57 368 1301 368C1305.42 368 1309 364.41 1309 360Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 214" d="M1112 28C1112 23.58 1108.42 20 1104 20C1099.57 20 1096 23.58 1096 28C1096 32.41 1099.57 36 1104 36C1108.42 36 1112 32.41 1112 28Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 215" d="M1133 45C1133 40.58 1129.42 37 1125 37C1120.57 37 1117 40.58 1117 45C1117 49.41 1120.57 53 1125 53C1129.42 53 1133 49.41 1133 45Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 216" d="M1154 28C1154 23.58 1150.42 20 1146 20C1141.57 20 1138 23.58 1138 28C1138 32.41 1141.57 36 1146 36C1150.42 36 1154 32.41 1154 28Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 217" d="M1175 14C1175 9.58 1171.42 6 1167 6C1162.57 6 1159 9.58 1159 14C1159 18.41 1162.57 22 1167 22C1171.42 22 1175 18.41 1175 14Z" fill="#EFEFEF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
